@@ -2,7 +2,7 @@
 
 This is a project on the basics of Binary Trees to be completed in teams of 2 people.
 
-Authors: Ricardo Sanchez & Emmanuel Torres
+**Authors**: Ricardo Sanchez & Emmanuel Torres
 
 ## 0. New Node (Mandatory)
 Write a function that creates a new node for a binary tree.
